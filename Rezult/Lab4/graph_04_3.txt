@@ -1,0 +1,8 @@
+This graph has a some cycle, if you want to sort topologically graph,
+please reboot the application and choose another graph.
+
+Сильнi компоненти зв'язностi графу 
+
+Компонента  1: [ 10 7 5 4 ]
+Компонента  2: [ 3 6 8 2 ]
+Компонента  3: [ 9 1 ]
