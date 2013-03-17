@@ -1,4 +1,5 @@
-This graph has a some cycle, if you want to sort topologically graph,please reboot the application and choose another graph.
+This graph has a some cycle, if you want to sort topologically graph,
+please reboot the application and choose another graph.
 
 Сильнi компоненти зв'язностi графу 
 
